@@ -47,7 +47,7 @@ CampusBite — це адаптивний веб-застосунок (PWA), як
 | 1 | Олійник Андрій | Project Manager (Team Lead) | [@dedlay1](https://github.com/dedlay1) |
 | 2 | Олійник Андрій | Product Owner | [@dedlay1](https://github.com/dedlay1) |
 | 3 | Олійник Андрій | Developer | [@dedlay1](https://github.com/dedlay1) |
-| 4 | Олійник Андрій | Designer | [@dedlay1](https://github.com/dedlay1) |
-| 5 | Олійник Андрій | Analyst | [@dedlay1](https://github.com/dedlay1) |
+| 4 | Олійник Андрій | Analyst | [@dedlay1](https://github.com/dedlay1) |
+| 5 | Козюра Вікторія | Designer | [@mryyxtm](https://github.com/mryyxtm) |
 
-> Проєкт виконується одним учасником, який суміщає всі ролі команди.
+> Проєкт виконується командою з двох учасників: Олійник Андрій суміщає ролі Project Manager, Product Owner, Developer та Analyst, а Козюра Вікторія відповідає за дизайн.

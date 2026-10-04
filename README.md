@@ -8,7 +8,8 @@
 
 | Учасник | Роль | GitHub |
 |---------|------|--------|
-| Олійник Андрій | Project Manager (Team Lead), Product Owner, Developer, Designer, Analyst | [@dedlay1](https://github.com/dedlay1) |
+| Олійник Андрій | Project Manager (Team Lead), Product Owner, Developer, Analyst | [@dedlay1](https://github.com/dedlay1) |
+| Козюра Вікторія | Designer | [@mryyxtm](https://github.com/mryyxtm) |
 
 ## Артефакти проєкту
 
