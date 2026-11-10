@@ -17,3 +17,9 @@
 - [Класифікація проєкту та аналіз оточення](project-classification.md) — класифікація проєкту за шістьма ознаками, аналіз внутрішнього та зовнішнього оточення, обмеження, припущення та висновки.
 - [Життєвий цикл проєкту](project-lifecycle.md) — обрана модель життєвого циклу (Scrum), фази, ворота між фазами, діаграма життєвого циклу та обґрунтування вибору моделі.
 - [Налаштування проєкту в Jira](jira-setup.md) — Jira-проєкт CB: епіки, пріоритизований за MoSCoW беклог, Sprint 1 та рефлексія.
+- [План часу та вартості](docs/time-cost-plan.md) — критичний ланцюжок, прогноз тривалості за Velocity, бюджет проєкту та Earned Value за Sprint 1.
+
+## Jira
+
+- [Дошка проєкту CampusBite (CB)](https://nubip-team-ytz7y4li.atlassian.net/jira/software/projects/CB/boards/1)
+- [Roadmap (Timeline)](https://nubip-team-ytz7y4li.atlassian.net/jira/software/projects/CB/boards/1/timeline)
