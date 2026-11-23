@@ -29,7 +29,7 @@
 | Ефективна Capacity | 48 год | 60 × 0.8. Андрій — 32 год, Вікторія — 16 год |
 | Velocity (факт, Sprint 1) | 18 SP | Velocity report: CB-10, CB-12, CB-13 (по 5) + CB-14 (3); CB-11 не завершено |
 | Годин на 1 SP | 2.67 год/SP | Capacity ÷ Velocity = 48 ÷ 18 |
-| Годин на 1 SP за оцінками Subtasks | 3.56 год/SP | Σ Original Estimate Sprint 2 = 64 год ÷ 18 SP |
+| Годин на 1 SP за оцінками Subtasks | 3.56 год/SP | Σ Original Estimate Subtasks Sprint 2 до вирівнювання = 64 год ÷ 18 SP; після вирівнювання — 50 год ÷ 14 SP = 3.57 |
 | Плановий обсяг наступного спринту | **14 SP** | 48 год ÷ 3.56 год/SP ≈ 13.5 SP |
 
 > На Velocity report для Sprint 1 Commitment = 0: stories додавались у вже запущений спринт, тому Jira відносить їх до «scope added». Фактичний план Sprint 1 — 21 SP (CB-10, CB-11, CB-12, CB-13, CB-14), Completed — 18 SP.
@@ -99,7 +99,7 @@
 
 ## 2.6. Аналіз Workload (з Jira)
 
-Стан Sprint 2 на момент аналізу (**до вирівнювання**) і факт Sprint 1. Задачі — Stories, Tasks і Subtasks, призначені на учасника; години — Σ Original Estimate його Subtasks.
+Стан Sprint 2 на момент аналізу (**до вирівнювання**) і факт Sprint 1. Задачі — Stories, Tasks і Subtasks, призначені на учасника; години — Σ Original Estimate його Subtasks. Поточний стан Sprint 2 (після вирівнювання) — у 2.7 та у фільтрі [CB — Workload Sprint 2](https://nubip-team-ytz7y4li.atlassian.net/issues/?filter=10002).
 
 | Учасник | Задач у Sprint 2 | SP committed (Sprint 2) | Години в Sprint 2 / ефект. Capacity | SP committed / done (Sprint 1) | % виконання (Sprint 1) | Висновок |
 |---------|:----------------:|:-----------------------:|:-----------------------------------:|:------------------------------:|:----------------------:|----------|
@@ -108,6 +108,8 @@
 | **Команда** | **26** | **18** | **64 / 48 год (133%)** | **21 / 18** | **86%** | Обсяг спринту на 16 год перевищує ефективну Capacity |
 
 > SP рахуються за виконавцем story, тому у Вікторії лише 2 SP, хоча її дизайн- і QA-subtasks входять у stories Андрія. Реальне навантаження показують години.
+>
+> Original Estimate самої story CB-11 (10 год) — оцінка з Sprint 1, де story була взята без subtasks. Після переносу в Sprint 2 її роботу розбито на CB-41, CB-42, CB-43, тому в розрахунку враховано лише subtasks, щоб не рахувати години двічі.
 >
 > Time Spent за Sprint 1: Андрій — 40 год, Вікторія — 20 год. У Sprint 2 час ще не логувався: спринт стартує 25.11.
 
